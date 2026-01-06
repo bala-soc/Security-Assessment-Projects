@@ -17,7 +17,7 @@ Network security is crucial for protecting an organization's data and resources 
 
 --- 
 
-### 2. File System Security Assessment 
+### 2. [File System Security Assessment](https://github.com/bala-soc/Security-Assessment-Projects/blob/main/2.%20File%20System%20Security%20Assessment.md)
 File system security is essential for ensuring that sensitive data is protected from unauthorized access and modifications.
 
 **Key Focus Areas:**
