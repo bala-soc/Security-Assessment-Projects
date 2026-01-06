@@ -5,7 +5,7 @@ system logs, and user accounts.
 
 ---
 ## 📂 Projects Included
-### 1. Basic Network Security Assessment 
+### 1. [Basic Network Security Assessment](https://github.com/bala-soc/Security-Assessment-Projects/blob/main/1.%20Basic%20Network%20Security%20Assessment.md)
 Network security is crucial for protecting an organization's data and resources from unauthorized access and cyber threats.
 
 **Key Focus Areas:**
