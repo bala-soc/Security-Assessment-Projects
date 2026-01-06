@@ -65,7 +65,7 @@ User account security is critical for preventing unauthorized access and ensurin
 
 --- 
 
-## 🎯 Learning Objectives
+## 🎯 Objective
 - Understand basic security assessment methodologies
 - Identify misconfigurations and security weaknesses
 - Analyze logs for suspicious activity
