@@ -29,7 +29,7 @@ File system security is essential for ensuring that sensitive data is protected 
 
 --- 
 
-### 3. Web Application Security Assessment 
+### 3. [Web Application Security Assessment](https://github.com/bala-soc/Security-Assessment-Projects/blob/main/3.%20Web%20Application%20Security%20Assessment.md) 
 Web applications are common targets for attackers due to the critical data they handle and their accessibility over the internet.
 
 **Key Focus Areas:**
