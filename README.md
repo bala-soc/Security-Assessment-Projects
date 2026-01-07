@@ -61,7 +61,7 @@ User account security is critical for preventing unauthorized access and ensurin
 - Checking Password Strength with chkpasswd
 - Auditing Sudo Permissions with sudo
 - Modifying User Permissions with usermod
-- Analyzing Failed Login Attempts with faillog
+- Analyzing Failed Login Attempts with faillock
 
 --- 
 
