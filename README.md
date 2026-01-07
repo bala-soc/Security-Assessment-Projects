@@ -41,7 +41,7 @@ Web applications are common targets for attackers due to the critical data they 
 
 --- 
 
-### 4. System Log Security Assessment
+### 4. [System Log Security Assessment](https://github.com/bala-soc/Security-Assessment-Projects/blob/main/4.%20System%20Log%20Assessment.md)
 System logs are vital for tracking system activities, diagnosing issues, and identifying potential security incidents.
 
 **Key Focus Areas:**
@@ -53,7 +53,7 @@ System logs are vital for tracking system activities, diagnosing issues, and ide
 
 ---  
 
-### 5. User Account Security Assessment
+### 5. [User Account Security Assessment](https://github.com/bala-soc/Security-Assessment-Projects/blob/main/5.%20User%20Account%20Security%20Assessment.md)
 User account security is critical for preventing unauthorized access and ensuring that users have appropriate permissions.
 
 **Key Focus Areas:**
