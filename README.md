@@ -1,8 +1,10 @@
 # Security Assessment Projects
 
-Security-assessment exercises covering network visibility, host controls, web application testing, logs, and account permissions in authorised environments.
+**Focus:** Network assessment • Host security • Web application testing • Logs and account controls
 
-## Projects
+This repository contains guided exercises for learning security assessment methodology in authorised environments.
+
+## Project Index
 1. [Basic Network Security Assessment](https://github.com/bala-soc/Security-Assessment-Projects/blob/main/1.%20Basic%20Network%20Security%20Assessment.md)
 2. [File-System Security Assessment](https://github.com/bala-soc/Security-Assessment-Projects/blob/main/2.%20File%20System%20Security%20Assessment.md)
 3. [Web Application Security Assessment](https://github.com/bala-soc/Security-Assessment-Projects/blob/main/3.%20Web%20Application%20Security%20Assessment.md)
@@ -11,21 +13,20 @@ Security-assessment exercises covering network visibility, host controls, web ap
 
 ## Assessment Workflow
 1. Define written scope and permission.
-2. Record the target lab, tools, and versions.
-3. Run only tests permitted by the scope.
+2. Record the lab environment and tool versions.
+3. Run only the tests allowed by the scope.
 4. Validate findings and distinguish confirmed issues from scanner output.
-5. Document risk, evidence, remediation, and retest status.
+5. Document impact, remediation, and retest status.
 
 ## Report Checklist
 - Executive summary
 - Scope and methodology
 - Finding, severity, and evidence
-- Reproduction steps safe for the authorised lab
-- Business/technical impact
-- Remediation and validation status
-- Limitations
+- Safe reproduction steps for the authorised lab
+- Technical impact and remediation
+- Verification status and limitations
 
 ## Tools
-Nmap, Wireshark, OpenVAS, OWASP ZAP, Burp Suite, Auditd, AIDE, and log-analysis tools as applicable to each implemented project.
+Nmap, Wireshark, OpenVAS, OWASP ZAP, Burp Suite, Auditd, AIDE, and log-analysis tools where used.
 
 > Test only systems you own or have explicit permission to assess. Sanitise screenshots, scan outputs, network details, and credentials before publishing.
