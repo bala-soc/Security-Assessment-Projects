@@ -1,8 +1,8 @@
 # Security Assessment Projects
 
-**Focus:** Network assessment • Host security • Web application testing • Logs and account controls
+**Focus:** Network security • Host configuration • Web application testing • Account controls
 
-This repository contains guided exercises for learning security assessment methodology in authorised environments.
+A set of practical security assessment exercises for authorised lab environments.
 
 ## Project Index
 1. [Basic Network Security Assessment](https://github.com/bala-soc/Security-Assessment-Projects/blob/main/1.%20Basic%20Network%20Security%20Assessment.md)
@@ -13,20 +13,20 @@ This repository contains guided exercises for learning security assessment metho
 
 ## Assessment Workflow
 1. Define written scope and permission.
-2. Record the lab environment and tool versions.
-3. Run only the tests allowed by the scope.
+2. Record the environment, tools, and versions.
+3. Run only tests authorised by the scope.
 4. Validate findings and distinguish confirmed issues from scanner output.
 5. Document impact, remediation, and retest status.
 
-## Report Checklist
-- Executive summary
-- Scope and methodology
-- Finding, severity, and evidence
-- Safe reproduction steps for the authorised lab
-- Technical impact and remediation
-- Verification status and limitations
+## Report Structure
+- Executive summary and scope
+- Methodology and tools
+- Findings, severity, and supporting evidence
+- Impact and remediation
+- Retest status and limitations
 
 ## Tools
 Nmap, Wireshark, OpenVAS, OWASP ZAP, Burp Suite, Auditd, AIDE, and log-analysis tools where used.
 
-> Test only systems you own or have explicit permission to assess. Sanitise screenshots, scan outputs, network details, and credentials before publishing.
+## Safe Practice
+Assess only systems you own or have explicit permission to test. Sanitise scan outputs, screenshots, network details, and credentials before publishing.
